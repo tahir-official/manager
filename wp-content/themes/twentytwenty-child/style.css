@@ -1,0 +1,15 @@
+/*
+Theme Name: Twenty Twenty Child
+Theme URL: http://wpamanuke.com/
+Description: Twenty Twenty Child Theme
+Author: Tahir Mansuri
+Author URL: http://wpamanuke.com/
+Template: twentytwenty
+Version: 1.0.0
+Text Domain: twentytwenty-child
+*/ 
+/* Custom CSS goes after this line */
+
+#site-header, #site-footer,.header-footer-group,#wp-admin-bar-view-site {
+display: none  ;
+}

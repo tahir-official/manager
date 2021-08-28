@@ -1,0 +1,10 @@
+
+
+# BEGIN WordPress Error Pages
+
+ErrorDocument 401 http://localhost/manager/error-401
+ErrorDocument 403 http://localhost/manager/error-403
+ErrorDocument 404 http://localhost/manager/error-404
+ErrorDocument 500 http://localhost/manager/error-500
+
+# END WordPress Error Pages
